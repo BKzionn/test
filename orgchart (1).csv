@@ -1,0 +1,4 @@
+name,position,id,location,manager,email,fill,stroke,refs,url,image,freigabeDestination,abgelehntDestination,connectionDestination,
+David Schneider,Auftragnehmer,1,,,me@example.com,#dae8fc,#6c8ebf,,https://app.diagrams.net,https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png,,2,,
+jkuwest-projektsteuerung,Projektsteuerung,2,,,me@example.com,#d5e8d4,#82b366,,https://app.diagrams.net,https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png,,,1,
+Herbert,berechtigeter Leser,3,,,me@example.com,#d5e8d4,#82b366,,https://app.diagrams.net,https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png,2,,,
